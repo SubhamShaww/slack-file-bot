@@ -1,0 +1,11 @@
+# executable files
+*.exe
+
+# log files
+*.log
+
+# env file
+.env
+.env.local
+.env.development
+.env.production
